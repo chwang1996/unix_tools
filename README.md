@@ -27,6 +27,10 @@ via wget
 #### Edit .zshrc
 Change ZSH_THEME to `ZSH_THEME="cus_amuse"`
 
+#### Install Powerline font
+
+`sudo apt install powerline`
+
 ### Using zsh auto-suggestion
 #### Copy plugin from repo
 Copy the zsh-autosuggestions/ folder to ~/.zsh, if there is no ~/.zsh, create it first
